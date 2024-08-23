@@ -1,5 +1,5 @@
 # Introduction
-Road traffic accidents (RTAs) represent a significant public health issue in in the world, and UK is not an exception, leading to the loss of thousands of lives and numerous severe injuries each year.
+Road traffic accidents (RTAs) represent a significant public health issue in the world, and UK is not an exception, leading to the loss of thousands of lives and numerous severe injuries each year.
 In the past 2 years, the country continued to experience a high incidence of accidents nationwide. This report explores the demographic effects and key causes of these incidents, providing
 valuable insights for shaping effective road safety interventions and policies. RTAs not only lead to fatalities and serious injuries but also place heavy economic strain on the healthcare system and the overall economy.
 Analyzing the trends and causes of these accidents is essential for creating targeted strategies to prevent future occurrences. This comprehensive report seeks to uncover important trends, 
@@ -13,7 +13,6 @@ This dashboard's primary purpose is to offer stakeholders such as traffic manage
 This information can be used to develop strategies to reduce the occurrence of accidents and improve overall road safety.
 
 # Documentation 
-# Road Accident Data Dashboard Documentation
 Overview
 This project presents a comprehensive dashboard that visualizes road accident data, providing insights into various aspects of road safety.
 The dashboard focuses on different metrics such as the total number of casualties, types of vehicles involved, road types with the most accidents,and monthly trends in road accident occurrences.
