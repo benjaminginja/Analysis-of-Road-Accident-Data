@@ -26,3 +26,5 @@ The dashboard focuses on different metrics such as the total number of casualtie
 
 # Data Sources
 The data used in this dashboard was sourced from publicly available road accident datasets for the years 2021 and 2022. This includes information on casualties, vehicle types, road types, and weather conditions at the time of accidents.
+
+# Find or download the attached files  to view dashboard, report and complete drawn insights for the analysis attached 
